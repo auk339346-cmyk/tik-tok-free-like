@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Booster",
+  "description": "TikTok Social Media Services for Likes, Views, and Followers with Free, VIP, and Pro subscription tiers and JazzCash payment integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
